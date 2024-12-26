@@ -1,0 +1,3 @@
+[submodule "demo-lib"]
+	path = demo-lib
+	url = git@github.com:plurallearn/demo-lib.git
